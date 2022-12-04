@@ -1,0 +1,9 @@
+[package]
+name = "rust-learn"
+version = "0.1"
+author = "StLeoX"
+
+[dependencies]
+threadpool = "1.8.1"
+rayon = "1.5.1"
+crossbeam = "0.8.1"
